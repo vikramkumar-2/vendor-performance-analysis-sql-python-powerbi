@@ -197,7 +197,7 @@ These four tables were joined and pre-aggregated with SQL into a single **vendor
 
 ## 🔬 Methodology
 
-1. **Ingestion** — Raw CSVs (including a 12.8M-row sales table) loaded into SQLite in chunks of 100,000 rows for memory efficiency.
+1. **Ingestion** — Raw CSVs (including a 1 Million-row sales table) loaded into SQLite in chunks of 100,000 rows for memory efficiency.
 2. **Aggregation** — Purchase, sales, and freight tables joined via CTEs into a **10,692-row** vendor-brand summary.
 3. **Cleaning** — Type correction, whitespace stripping, null handling, and derived KPI creation.
 4. **Exploratory Data Analysis** — Distribution profiling, outlier detection, and correlation analysis across all key metrics.
