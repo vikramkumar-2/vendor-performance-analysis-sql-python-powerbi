@@ -337,11 +337,11 @@ jupyter notebook "notebook/Vendor Performance Analysis.ipynb"
 
 ## 👤 Author
 
-**Your Name**
+**Vikram Kumar**
 Data Analyst | Python · SQL · Power BI
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-FF8C00?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vikramkumar4/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bhj7DuOmSQ%2FKXSyJCSN2bWA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/vikramkumar-2"><img src="https://img.shields.io/badge/GitHub-Follow-FF8C00?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 ⭐ If you found this project useful, consider giving it a star!
 
