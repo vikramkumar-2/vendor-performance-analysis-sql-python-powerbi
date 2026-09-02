@@ -2,7 +2,7 @@
 
 # 🥃 Vendor Performance Analysis
 
-### Turning 12.8M+ raw transactions into vendor, brand & inventory intelligence
+### Turning 1+ raw transactions into vendor, brand & inventory intelligence
 
 <img src="https://img.shields.io/badge/Python-3.13-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-FF8C00?style=for-the-badge&logo=pandas&logoColor=white" />
