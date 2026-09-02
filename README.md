@@ -337,7 +337,7 @@ jupyter notebook "notebook/Vendor Performance Analysis.ipynb"
 
 ## 👤 Author
 
-**Your Name**
+**Vikram Kumar**
 Data Analyst | Python · SQL · Power BI
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
