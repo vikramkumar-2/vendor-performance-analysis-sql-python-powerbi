@@ -51,7 +51,7 @@
 
 ## 🧭 Overview
 
-**Vendor Performance Analysis** is a full-cycle data analytics project built for a retail & wholesale beverage distribution business. It consolidates **over 1 million transaction-level records** across purchases, sales, invoices, and pricing into a single vendor-brand performance model — then applies exploratory analysis, correlation studies, and formal hypothesis testing to answer concrete business questions:
+**Vendor Performance Analysis** is a full-cycle data analytics project built for a retail & wholesale beverage distribution business. It consolidates **over millions+ transaction-level records** across purchases, sales, invoices, and pricing into a single vendor-brand performance model — then applies exploratory analysis, correlation studies, and formal hypothesis testing to answer concrete business questions:
 
 > Which vendors and brands actually drive profit — and which ones are quietly draining it?
 
